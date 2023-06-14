@@ -1,3 +1,4 @@
+//Biggest of two using if-else
 #include <stdio.h>
 
 int findMax(int a, int b) {
